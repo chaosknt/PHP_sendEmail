@@ -1,3 +1,3 @@
 # sendEmail
-Example how to send email using PHP
+Example how to send email using PHP.
 
